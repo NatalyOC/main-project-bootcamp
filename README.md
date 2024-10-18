@@ -1,6 +1,5 @@
 # Main Project - Bootcamp
 
-# Mi Repositorio Principal
 
 Este es el repositorio principal que contiene varios proyectos independientes. A continuación se encuentran los enlaces a cada uno de ellos:
 
